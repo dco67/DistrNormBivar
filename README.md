@@ -1,0 +1,2 @@
+# DistrNormBivar
+Distribution normale bivariée
